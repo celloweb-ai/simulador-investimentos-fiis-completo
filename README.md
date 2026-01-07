@@ -1,1 +1,124 @@
-IyDwn5OKIE8gaW11bGFkb3IgZGUgSW52ZXN0aW1lbnRvcyBlbSBGdW5kb3MgSW1vYmlsacOhcmlvcyAoRklJcykKCiMjIPCfjr8gU29icmUgbyBQcm9qZXRvCgpGZXJyYW1lbnRhIGNvbXBsZXRhIGRlIGNvbnRyb2xlIGUgc2ltdWxhw6fDo28gZGUgaW52ZXN0aW1lbnRvcyBlbSBGdW5kb3MgSW1vYmlsacOhcmlvcyBkZXNlbnZvbHZpZGEgZW0gRXhjZWwsIGNyaWFkYSBjb21vIHBhcnRlIGRvICoqRGVzYWZpbyBESU8vU2FudGFuZGVyIC0gQm9vdGNhbXAgZW0gSUEgZSBEYWRvcyoqLgoKRXN0ZSBzaW11bGFkb3IgcGVybWl0ZSBhb3MgaW52ZXN0aWRvcmVzOgotIPCfk4ggQWNvbXBhbmhhciBvIGRlc2VtcGVuaG8gZGUgc3VhIGNhcnRlaXJhIGRlIEZJSXMKLSDwn5KwIENhbGN1bGFyIHJlbmRpbWVudG9zIG1lbnNhaXMgZSBhbnVhbGl6YWRvcwotIPCfk4ogQW5hbGlzYXIgYSBkaXZlcnNpZmljYcOnw6NvIGRlIGludmVzdGltZW50b3MKLSDwn46vIFNpbXVsYXIgY2Vuw6FyaW9zIGZ1dHVyb3MgZGUgaW52ZXN0aW1lbnRvCi0g8J+TiSBBY29tcGFuaGFyIHZhbG9yaXphw6fDo28vZGVzdmFsb3JpemHDp8OjbyBkb3MgYXRpdm9zCgojIyDwn5qAIEZ1bmNpb25hbGlkYWRlcwoKIyMjIENvbnRyb2xlIGRlIENhcnRlaXJhCi0gUmVnaXN0cm8gZGV0YWxoYWRvIGRlIGNhZGEgRklJIGludmVzdGlkbwotIEPDoWxjdWxvIGF1dG9tw6F0aWNvIGRlIHZhbG9yZXMgaW52ZXN0aWRvcwotIEF0dWFsaXphw6fDo28gZGUgY290YXMgZSBwcmXDp29zIG3DqWRpb3MKLSBBW8OhbGlzZSBkZSByZW50YWJpbGlkYWRlIHBvciBhdGl2bwoKIyMjIEFuw6FsaXNlIGRlIFJlbmRpbWVudG9zCi0gQ8OhbGN1bG8gZGUgZGl2aWRlbmQgeWllbGQKLSBQcm9qZcOnw6NvIGRlIHJlbmRpbWVudG9zIG1lbnNhaXMKLSBSZW5kaW1lbnRvIGFudWFsaXphZG8gKFlpZWxkIG9uIENvc3QpCi0gQ29tcGFyYcOnw6NvIGNvbSBpbnZlc3RpbWVudG9zIGRlIHJlbmRhIGZpeGEKCiMjIyBEYXNoYm9hcmQgSW50ZXJhdGl2bwotIEdyw6FmaWNvcyBkZSBjb21wb3Npw6fDo28gZGEgY2FydGVpcmEKLSBWaXN1YWxpemHDp8OjbyBkZSBkZXNlbXBlbmhvIHBvciBzZXRvcgotIEFuw6FsaXNlIGRlIGNvbmNlbnRyYcOnw6NvIGRlIGludmVzdGltZW50b3MKLSBJBG5kaWNhZG9yZXMgZGUgcGVyZm9ybWFuY2UKCiMjIPCfk4EgRXN0cnV0dXJhIGRvIEFycXVpdm8KCk8gYXJxdWl2byBFeGNlbCBjb250w6ltIGFzIHNlZ3VpbnRlcyBhYmFzOgoKMS4gKipQYWluZWwgZGUgQ29udHJvbGUqKjogVmlzw6NvIGdlcmFsIGRvcyBpbnZlc3RpbWVudG9zCjIuICoqQ2FydGVpcmEqKjogUmVnaXN0cm8gZGV0YWxoYWRvIGRlIHRvZG9zIG9zIEZJSXMKMy4gKipSZW5kaW1lbnRvcyoqOiBIaXN0w7NyaWNvIGRlIGRpdmlkZW5kb3MgcmVjZWJpZG9zCjQuICoqU2ltdWxhw6fDtWVzKio6IEZlcnJhbWVudGEgZGUgcHJvamXDp8OjbyBkZSBpbnZlc3RpbWVudG9zCjUuICoqRGFzaGJvYXJkKio6IEdyw6FmaWNvcyBlIGluZGljYWRvcmVzIHZpc3VhaXMKNi4gKipJbnN0cnXDp8O1ZXMqKjogR3VpYSBkZSB1c28gZGEgZmVycmFtZW50YQoKIyMg8J+TpSBEb3dubG9hZCBkYSBQbGFuaWxoYQoKWyoqQmFpeGFyIFNpbXVsYWRvciBkZSBJbnZlc3RpbWVudG9zIGVtIEZJSXMgLSBFeGNlbCoqXShodHRwczovL2dpdGh1Yi5jb20vY2VsbG93ZWItYWkvU2ltdWxhZG9yX0ludmVzdGltZW50b3NfRklJcy9ibG9iL21haW4vU2ltdWxhZG9yJTIwSW52ZXN0aW1lbnRvcyUyMEZJSXMueGxzeCkKCj4g8J+SoSAqKkluc3RydcOnw7VlcyoqOiBDbGlxdWUgbm8gbGluayBhY2ltYSwgZGVwb2lzIGNsaXF1ZSBubyBib3TDo28gKipEb3dubG9hZCoqIG5vIEdpdEh1YiBwYXJhIGJhaXhhciBvIGFycXVpdm8uCgojIyDwn5KrIENvbW8gVXRpbGl6YXIKCjEuICoqRG93bmxvYWQqKjogQmFpeGUgbyBhcnF1aXZvIGBTaW11bGFkb3JfSW52ZXN0aW1lbnRvc19GdW5kb3NfSW1vYmlsaWFyaW9zX0V4Y2VsX1Jlc29sdmlkby54bHN4YAoyLiAqKkFiZXJ0dXJhKio6IEFicmEgY29tIE1pY3Jvc29mdCBFeGNlbCAoMjAxNiBvdSBzdXBlcmlvcikgb3UgTGlicmVPZmZpY2UgQ2FsYwozLiAqKkhhYmlsaXRhciBNYWNyb3MqKjogU2Ugc29saWNpdGFkbywgaGFiaWxpdGUgbWFjcm9zIHBhcmEgZnVuY2lvbmFsaWRhZGVzIGNvbXBsZXRhcwo0LiAqKlBlcnNvbmFsaXphw6fDo28qKjogSW5zaXJhIHNldXMgZGFkb3MgZGUgaW52ZXN0aW1lbnRvcyBuYXMgY8OpbHVsYXMgaW5kaWNhZGFzCjUuICoqQW7DoWxpc2UqKjogRXhwbG9yZSBvcyBncsOhZmljb3MgZSByZWxhdMOzcmlvcyBnZXJhZG9zIGF1dG9tYXRpY2FtZW50ZQoKIyMg8J+TiiBQcmluY2lw YWlzIE3DqXRyaWNhcyBDYWxjdWxhZGFzCgotICoqVmFsb3IgVG90YWwgSW52ZXN0aWRvKio6IFNvbWEgZGUgdG9kb3Mgb3MgYXBvcnRlcyByZWFsaXphZG9zCi0gKipWYWxvciBBdHVhbCBkYSBDYXJ0ZWlyYSoqOiBWYWxvciBkZSBtZXJjYWRvIGRvcyBhdGl2b3MKLSAK KlJlbnRhYmlsaWRhZGUgVG90YWwqKjogR2FuaG8vcGVyZGEgZGVzZGUgbyBpbsOtY2lvIGRvcyBpbnZlc3RpbWVudG9zCi0gKipEaXZpZGVuZCBZaWVsZCBNw6lkaW8qKjogUmVuZGltZW50byBwZXJjZW50dWFsIHNvYnJlIG8gaW52ZXN0aW1lbnRvCi0gKipSZW5kaW1lbnRvIE1lbnNhbCoqOiBWYWxvciBtw6lkaW8gcmVjZWJpZG8gZW0gZGl2aWRlbmRvcwotICoK KlBhdHJpbcO0bmlvIEzDrXF1aWRvKio6IFZhbG9yIHRvdGFsIGNvbnNpZGVyYW5kbyByZW5kaW1lbnRvcyByZWludmVzdGlkb3MKCiMjIPCfjpMgQ29uY2VpdG9zIEFwbGljYWRvcwoKRXN0ZSBwcm9qZXRvIGRlbW9uc3RyYSBjb25oZWNpbWVudG9zIGVtOgotIE1vZGVsYWdlbSBmaW5hbmNlaXJhIGVtIHBsYW5pbGhhcwotIEbDs3JtdWxhcyBhdmFuw6dhZGFzIGRvIEV4Y2VsIChQUk9DViwgU09NQVNFLCBTRSwgZXRjLikKLSBDcmlhw6fDo28gZGUgZGFzaGJvYXJkcyBpbnRlcmF0aXZvcwotIEFuw6FsaXNlIGRlIGludmVzdGltZW50b3MgZW0gcmVuZGEgdmFyacOhdmVsCi0gR2VzdMOjbyBkZSBjYXJ0ZWlyYXMgZGUgRklJcwotIFZpc3VhbGl6YcOnw6NvIGRlIGRhZG9zIGZpbmFuY2Vpcm9zCgojIyDwn4+GIERlc2FmaW8gRElPL1NhbnRhbmRlcgoKUHJvamV0byBkZXNlbnZvbHZpZG8gY29tbyBwYXJ0ZSBkbyBib290Y2FtcCAqKiJJQSBlIERhZG9zIioqIG9mZXJlY2lkbyBwZWxhIERJTyBlbSBwYXJjZXJpYSBjb20gbyBTYW50YW5kZXIuIE8gZGVzYWZpbyBwcm9wdW5oYSBhIGNyaWHDp8OjbyBkZSB1bWEgZmVycmFtZW50YSBwcsOhdGljYSBwYXJhIGF1eGlsaWFyIG5hIGdlc3TDo28gZGUgaW52ZXN0aW1lbnRvcyB1dGlsaXphbmRvIHJlY3Vyc29zIGRlIGFuw6FsaXNlIGRlIGRhZG9zLgoKIyMg8J+NnSBSZXF1aXNpdG9zIFTDqWNuaWNvcwoKLSBNaWNyb3NvZnQgRXhjZWwgMjAxNiBvdSBzdXBlcmlvcgotIExpYnJlT2ZmaWNlIENhbGMgNi4wIG91IHN1cGVyaW9yCi0gR29vZ2xlIFNoZWV0cyAoZnVuY2lvbmFsaWRhZGVzIGxpbWl0YWRhcykKCiMjIPCflKcgUGVyc29uYWxpemHDp8O1ZXMgUG9zc8OtdmVpcwoKTyBzaW11bGFkb3IgcG9kZSBzZXIgYWRhcHRhZG8gcGFyYToKLSBJbmNsdWlyIG91dHJvcyB0aXBvcyBkZSBpbnZlc3RpbWVudG9zIChhw6fDtWVzLCBFVEZzKQotIEFkaWNpb25hciBhbsOhbGlzZSBkZSBpbXBvc3RvcyAoSVIgc29icmUgcmVuZGltZW50b3MpCi0gSW50ZWdyYXIgY29tIEFQSXMgZGUgY290YcOnw7VlcyBlbSB0ZW1wbyByZWFsCi0gRXhwYW5kaXIgYW7DoWxpc2VzIGRlIHJpc2NvIGUgdm9sYXRpbGlkYWRlCgojIyDwn5OaIFJlZmVyw6puY2lhcyBlIFJlY3Vyc29zCgotIFtCMyAtIEZ1bmRvcyBkZSBJbnZlc3RpbWVudG8gSW1vYmlsacOhcmlvXShodHRwczovL3d3dy5iMy5jb20uYnIvcHRfYnIvcHJvZHV0b3MtZS1zZXJ2aWNvcy9uZWdvY2lhY2FvL3JlbmRhLXZhcmlhdmVsL2Z1bmRvcy1kZS1pbnZlc3RpbWVudG9zL2ZpaS8pCi0gW0NWTSATLSBH dWlhIGRlIEZ1bmRvcyBJbW9iaWxpw6FyaW9zXShodHRwczovL3d3dy5pbnZlc3RpZG9yLmdvdi5ici9tZW51L01lbnVfSW52ZXN0aWRvci9mdW5kb3NfaW52ZXN0aW1lbnRvcy9mdW5kb3NfaW1vYmlsaWFyaW9zLmh0bWwpCi0gW0RJTyAtIERpZ2l0YWwgSW5ub3ZhdGlvbiBPbmVdKGh0dHBzOi8vd3d3LmRpby5tZS8pCgojIyDwn5Go4oCN4pqV+48vIEF1dG9yCgoqKk1hcmN1cyBWYXNjb25jZWxsb3MqKgotIEdpdEh1YjogW0BjZWxsb3dlYi1haV0oaHR0cHM6Ly9naXRodWIuY29tL2NlbGxvd2ViLWFpKQotIExpbmtlZEluOiBbTWFyY3VzIFZhc2NvbmNlbGxvc10oaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL21hcmN1c3Zhc2NvbmNlbGxvcykKLSBFbWFpbDogbWFyY3VzQHZhc2NvbmNlbGxvcy5uZXQuYnIKCiMjIPCfk4QgTGljZW7Dp2EKCkVzdGUgcHJvamV0byBlc3TDoSBzb2IgYSBsaWNlbsOnYSBNSVQuIFNpbnRhLXNlIGxpdnJlIHBhcmEgdXNhciwgbW9kaWZpY2FyIGUgZGlzdHJpYnVpci4KCiMjIPCfpIsgQ29udHJpYnVpw6fDtWVzCgpDb250cmlidWnDp8O1ZXMgc8OjbyBiZW0tdmluZGFzISBQYXJhIGNvbnRyaWJ1aXI6CjEuIEZhw6dhIHVtIGZvcmsgZG8gcHJvamV0bwoyLiBDcmllIHVtYSBicmFuY2ggcGFyYSBzdWEgZmVhdHVyZSAoYGdpdCBjaGVja291dCAtYiBmZWF0dXJlL0FtYXppbmdGZWF0dXJlYCkKMy4gQ29tbWl0IHN1YXMgbXVkYW7Dp2FzIChgZ2l0IGNvbW1pdCAtbSAnQWRkIHNvbWUgQW1hemluZ0ZlYXR1cmUnYCkKNC4gUHVzaCBwYXJhIGEgYnJhbmNoIChgZ2l0IHB1c2ggb3JpZ2luIGZlYXR1cmUvQW1hemluZ0ZlYXR1cmVgKQo1LiBBYnJhIHVtIFB1bGwgUmVxdWVzdAoKIyMg4q2QIEFncmFkZWNpbWVudG9zCgotICoqRElPIChEaWdpdGFsIElubm92YXRpb24gT25lKSoqIHBlbGEgcGxhdGFmb3JtYSBkZSBhcHJlbmRpemFkbwotICoqU2FudGFuZGVyKiogcGVsbyBwYXRyb2PDrW5pbyBkbyBib290Y2FtcAotIENvbXVuaWRhZGUgZGUgaW52ZXN0aWRvcmVzIGVtIEZJSXMgcGVsYXMgYm9hcyBwcsOhdGljYXMgY29tcGFydGlsaGFkYXMKCi0tLQoKKipEZXNlbnZvbHZpZG8gY29tIPCfkpkgcGFyYSBhdXhpbGlhciBpbnZlc3RpZG9yZXMgbmEgam9ybmFkYSBkZSBjb25zdHJ1w6fDo28gZGUgcGF0cmltw7RuaW8gYXRyYXbDqXMgZGUgRnVuZG9zIEltb2JpbGnDoXJpb3MqKg==
+# 📊 Simulador de Investimentos em Fundos Imobiliários (FIIs)
+
+## 🎯 Sobre o Projeto
+
+Ferramenta completa de controle e simulação de investimentos em Fundos Imobiliários desenvolvida em Excel, criada como parte do **Desafio DIO/Santander - Bootcamp em IA e Dados**.
+
+Este simulador permite aos investidores:
+- 📈 Acompanhar o desempenho de sua carteira de FIIs
+- 💰 Calcular rendimentos mensais e anualizados
+- 📊 Analisar a diversificação de investimentos
+- 🎯 Simular cenários futuros de investimento
+- 📉 Acompanhar valorização/desvalorização dos ativos
+
+## 🚀 Funcionalidades
+
+### Controle de Carteira
+- Registro detalhado de cada FII investido
+- Cálculo automático de valores investidos
+- Atualização de cotas e preços médios
+- Análise de rentabilidade por ativo
+
+### Análise de Rendimentos
+- Cálculo de dividend yield
+- Projeção de rendimentos mensais
+- Rendimento anualizado (Yield on Cost)
+- Comparação com investimentos de renda fixa
+
+### Dashboard Interativo
+- Gráficos de composição da carteira
+- Visualização de desempenho por setor
+- Análise de concentração de investimentos
+- Indicadores de performance
+
+## 📁 Estrutura do Arquivo
+
+O arquivo Excel contém as seguintes abas:
+
+1. **Painel de Controle**: Visão geral dos investimentos
+2. **Carteira**: Registro detalhado de todos os FIIs
+3. **Rendimentos**: Histórico de dividendos recebidos
+4. **Simulações**: Ferramenta de projeção de investimentos
+5. **Dashboard**: Gráficos e indicadores visuais
+6. **Instruções**: Guia de uso da ferramenta
+
+## 💻 Como Utilizar
+
+1. **Download**: Baixe o arquivo `Simulador_Investimentos_Fundos_Imobiliarios_Excel_Resolvido.xlsx`
+2. **Abertura**: Abra com Microsoft Excel (2016 ou superior) ou LibreOffice Calc
+3. **Habilitar Macros**: Se solicitado, habilite macros para funcionalidades completas
+4. **Personalização**: Insira seus dados de investimentos nas células indicadas
+5. **Análise**: Explore os gráficos e relatórios gerados automaticamente
+
+## 📊 Principais Métricas Calculadas
+
+- **Valor Total Investido**: Soma de todos os aportes realizados
+- **Valor Atual da Carteira**: Valor de mercado dos ativos
+- **Rentabilidade Total**: Ganho/perda desde o início dos investimentos
+- **Dividend Yield Médio**: Rendimento percentual sobre o investimento
+- **Rendimento Mensal**: Valor médio recebido em dividendos
+- **Patrimônio Líquido**: Valor total considerando rendimentos reinvestidos
+
+## 🎓 Conceitos Aplicados
+
+Este projeto demonstra conhecimentos em:
+- Modelagem financeira em planilhas
+- Fórmulas avançadas do Excel (PROCV, SOMASE, SE, etc.)
+- Criação de dashboards interativos
+- Análise de investimentos em renda variável
+- Gestão de carteiras de FIIs
+- Visualização de dados financeiros
+
+## 🏆 Desafio DIO/Santander
+
+Projeto desenvolvido como parte do bootcamp **"IA e Dados"** oferecido pela DIO em parceria com o Santander. O desafio propunha a criação de uma ferramenta prática para auxiliar na gestão de investimentos utilizando recursos de análise de dados.
+
+## 📝 Requisitos Técnicos
+
+- Microsoft Excel 2016 ou superior
+- LibreOffice Calc 6.0 ou superior
+- Google Sheets (funcionalidades limitadas)
+
+## 🔧 Personalizações Possíveis
+
+O simulador pode ser adaptado para:
+- Incluir outros tipos de investimentos (ações, ETFs)
+- Adicionar análise de impostos (IR sobre rendimentos)
+- Integrar com APIs de cotações em tempo real
+- Expandir análises de risco e volatilidade
+
+## 📚 Referências e Recursos
+
+- [B3 - Fundos de Investimento Imobiliário](https://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/fundos-de-investimentos/fii/)
+- [CVM - Guia de Fundos Imobiliários](https://www.investidor.gov.br/menu/Menu_Investidor/fundos_investimentos/fundos_imobiliarios.html)
+- [DIO - Digital Innovation One](https://www.dio.me/)
+
+## 👨‍💻 Autor
+
+**Marcus Vasconcellos**
+- GitHub: [@celloweb-ai](https://github.com/celloweb-ai)
+- LinkedIn: [Marcus Vasconcellos](https://www.linkedin.com/in/marcusvasconcellos)
+- Email: marcus@vasconcellos.net.br
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir.
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas! Para contribuir:
+1. Faça um fork do projeto
+2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
+3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
+4. Push para a branch (`git push origin feature/AmazingFeature`)
+5. Abra um Pull Request
+
+## ⭐ Agradecimentos
+
+- **DIO (Digital Innovation One)** pela plataforma de aprendizado
+- **Santander** pelo patrocínio do bootcamp
+- Comunidade de investidores em FIIs pelas boas práticas compartilhadas
+
+---
+
+**Desenvolvido com 💙 para auxiliar investidores na jornada de construção de patrimônio através de Fundos Imobiliários**
