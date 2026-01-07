@@ -44,7 +44,7 @@ O arquivo Excel contém as seguintes abas:
 
 ## 💻 Como Utilizar
 
-1. **Download**: Baixe o arquivo `Simulador_Investimentos_Fundos_Imobiliarios_Excel_Resolvido.xlsx`
+1. **Download**: Baixe o arquivo `Simulador Investimentos FIIs.xlsx`
 2. **Abertura**: Abra com Microsoft Excel (2016 ou superior) ou LibreOffice Calc
 3. **Habilitar Macros**: Se solicitado, habilite macros para funcionalidades completas
 4. **Personalização**: Insira seus dados de investimentos nas células indicadas
