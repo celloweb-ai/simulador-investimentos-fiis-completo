@@ -11,6 +11,10 @@ Este simulador permite aos investidores:
 - 🎯 Simular cenários futuros de investimento
 - 📉 Acompanhar valorização/desvalorização dos ativos
 
+## 📥 Download
+
+**[⬇️ Baixar Planilha (Simulador Investimentos FIIs.xlsx)](https://github.com/celloweb-ai/Simulador_Investimentos_FIIs/raw/main/Simulador%20Investimentos%20FIIs.xlsx)**
+
 ## 🚀 Funcionalidades
 
 ### Controle de Carteira
@@ -44,7 +48,7 @@ O arquivo Excel contém as seguintes abas:
 
 ## 💻 Como Utilizar
 
-1. **Download**: Baixe o arquivo `Simulador Investimentos FIIs.xlsx`
+1. **Download**: Clique no link acima para baixar o arquivo `Simulador Investimentos FIIs.xlsx`
 2. **Abertura**: Abra com Microsoft Excel (2016 ou superior) ou LibreOffice Calc
 3. **Habilitar Macros**: Se solicitado, habilite macros para funcionalidades completas
 4. **Personalização**: Insira seus dados de investimentos nas células indicadas
